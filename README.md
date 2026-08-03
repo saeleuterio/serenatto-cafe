@@ -5,7 +5,7 @@ O Serenatto é uma landing page para um café, projetada para apresentar produto
 - **Listagem de produtos**: Exibe os produtos, permitindo visualizar a imagem e o nome.
 - **Modal**: Permite visualizar detalhes do produto selecionado, incluindo descrição, proporcionando uma experiência mais imersiva.
 - **Modo escuro**: Alterna entre modos claro e escuro, permitindo que as pessoas escolham a aparência de acordo com sua preferência.
-## Técnicas e tecnologias utilizadas
+## :Técnicas e tecnologias utilizadas
 - **HTML**: Estrutura básica da landing page.
 - **JavaScript**: Linguagem de programação utilizada para desenvolver a lógica do aplicativo e interações.
 - **Node.js**: Plataforma utilizada para executar o ambiente de desenvolvimento e gerenciamento de pacotes.
