@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Barlow", sans-serif;
+  background-color: #fff;
+  color: #212529;
+}
+body a {
+  color: #212529;
+}
+body a:hover {
+  color: #8A5E36;
+}/*# sourceMappingURL=main.css.map */
